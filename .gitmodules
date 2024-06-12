@@ -19,3 +19,6 @@
 [submodule "eeprom"]
 	path = eeprom
 	url = https://github.com/grblHAL/Plugin_EEPROM
+[submodule "potentiometer"]
+	path = potentiometer
+	url = https://github.com/RudanovskiyM/grblHal-Plugin_potentiometer
